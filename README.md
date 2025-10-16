@@ -51,3 +51,16 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 | File Name | Description |
 | :--- | :--- |
 | **`task-final.ipynb`** | The core analysis notebook containing all data cleaning, EDA, visualization, feature engineering, Logistic Regression model training, and evaluation. |
+
+-----
+
+### 📸 Screenshots from the Analysis
+
+A selection of key visualizations and model outputs generated during the analysis.
+
+![screenshot1](screenshot1.png)
+![screenshot2](screenshot2.png)
+![screenshot3](screenshot3.png)
+![screenshot4](screenshot4.png)
+![screenshot5](screenshot5.png)
+![screenshot6](screenshot6.png)
