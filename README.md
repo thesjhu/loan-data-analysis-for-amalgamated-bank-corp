@@ -1,12 +1,10 @@
-## 🏦 Credit Risk Analysis and Loan Default Prediction
+# 🏦 Credit Risk Analysis and Loan Default Prediction
 
 This repository contains a comprehensive data analysis and machine learning project focused on credit risk assessment for Amalgamated Bank Corp (ABC). The goal is to transform raw loan data into actionable intelligence, providing management with a clear demographic profile of their clients and a predictive model to forecast loan default risk.
 
 The entire analysis workflow is encapsulated in the primary Jupyter Notebook: **`task-final.ipynb`**.
 
------
-
-### ✨ Project Highlights & Deliverables
+## ✨ Project Highlights & Deliverables
 
 This analysis was executed to address key business questions from ABC management, dealing with a dataset of over **300,000 loans**.
 
@@ -17,13 +15,11 @@ This analysis was executed to address key business questions from ABC management
 | **Default Analysis** | Focused visualization to identify characteristic qualities of clients who are in default or late on repayments. | Three meaningful visualizations highlighting differences between defaulting and non-defaulting groups. |
 | **Predictive Modeling** | Implementation of a **Logistic Regression** model to calculate the probability of a client defaulting on a loan. | Predictive model results, scoring metrics, and a Confusion Matrix. |
 
------
-
-### 💻 Getting Started
+## 💻 Getting Started
 
 This project is built using standard Python data science libraries.
 
-#### Prerequisites
+### Prerequisites
 
 To run the notebook, you must have the following libraries installed:
 
@@ -39,22 +35,18 @@ You can install them using pip:
 pip install numpy pandas matplotlib seaborn scikit-learn
 ```
 
-#### Running the Analysis
+### Running the Analysis
 
 1.  **Data File:** Ensure the primary dataset file, **`application_train.csv`**, is present in the same directory as the notebook. (The notebook is configured to read this file).
 2.  **Execute:** Open the main file, `task-final.ipynb`, in a Jupyter environment and run all cells sequentially.
 
------
-
-### 📌 Main File
+## 📌 Main File
 
 | File Name | Description |
 | :--- | :--- |
 | **`task-final.ipynb`** | The core analysis notebook containing all data cleaning, EDA, visualization, feature engineering, Logistic Regression model training, and evaluation. |
 
------
-
-### 📸 Screenshots from the Analysis
+## 📸 Screenshots from the Analysis
 
 A selection of key visualizations and model outputs generated during the analysis.
 
